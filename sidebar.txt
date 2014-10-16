@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ayp:home|Door43 (ayp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ayp|d43-ayp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ayp/archive/master.zip|d43-ayp.zip]]
+
+**Recent Changes**
+{{changes>ns = ayp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ayp|Ethnologue data]]
+
